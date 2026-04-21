@@ -21,7 +21,7 @@ Retrieved from:  https://www.police.govt.nz/about-us/publications-statistics/dat
 6. A PDF will be generated automatically if "Knit to PDF" is enabled.
 
 ## Conclusion
-Analysis revealed that the 10-19 age group and Counties Manukau district had the highest motor vehicle theft and related offences, with a decline during 2019-2021 due to COVID-19 restrictions, followed by an increase through 2023 driven by post-pandemic economic pressures. Targeted prevention programs, increased police patrols in high-risk areas, and stronger welfare support are recommended to address these patterns.
+Analysis revealed that the 10-19 age group and Counties Manukau district had the highest motor vehicle theft and related offences, with a decline during 2019-2021 due to COVID-19 restrictions, followed by an increase through 2023 driven by post-pandemic economic pressures. Targeted prevention programs, increased police patrols in high-risk areas and stronger welfare support are recommended to address these patterns.
 
 ## Report
 A PDF version of the report can also be viewed directly: Motor-Vehicle-Theft-in-New-Zealand.pdf
